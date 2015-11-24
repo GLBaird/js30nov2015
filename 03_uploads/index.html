@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Uploads</title>
+</head>
+<body>
+
+<h1>File Uploads</h1>
+
+<form id="form">
+
+    <input type="file" id="imagefile"> <br>
+
+    <input placeholder="Enter username" type="text" id="username">
+
+    <input placeholder="Enter image name" type="text" id="imagename">
+
+    <button onclick="event.preventDefault(); uploadData();">Upload</button>
+
+</form>
+
+<div id="preview"
+     style="height: 300px; background-size: contain; background-repeat: no-repeat;">
+
+</div>
+
+<script src="uploads.js"></script>
+
+</body>
+</html>

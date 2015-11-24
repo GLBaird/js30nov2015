@@ -1,0 +1,16 @@
+{
+  "name": "05_websockets",
+  "version": "1.0.0",
+  "description": "Web Socket Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Leon Baird",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "websocket": "^1.0.22"
+  }
+}

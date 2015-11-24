@@ -1,0 +1,16 @@
+{
+  "users" : [
+    {
+      "name" : "Indian Jones",
+      "occupation": "Archaeologist"
+    },
+    {
+      "name" : "Jabba the Hutt",
+      "occupation" : "Gangster Worm"
+    },
+    {
+      "name" : "Side Show Bob",
+      "occupation" : "Evil Clown"
+    }
+  ]
+}

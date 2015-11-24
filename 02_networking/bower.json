@@ -1,0 +1,22 @@
+{
+  "name": "02_networking",
+  "homepage": "https://github.com/GLBaird/js30nov2015",
+  "authors": [
+    "Leon Baird <bairdleon@mac.com>"
+  ],
+  "description": "AJAX Demo Code",
+  "main": "users.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
