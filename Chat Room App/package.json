@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.0",
-    "jquery": "^2.1.4",
+    "jquery": "^3.0.0",
     "mongodb": "^2.0.35",
     "websocket": "^1.0.19"
   }
